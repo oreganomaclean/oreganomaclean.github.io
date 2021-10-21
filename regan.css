@@ -6,7 +6,6 @@ body {
 height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-}
 {
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -60,9 +59,3 @@ a:hover {
 a:active {
   color: yellow;
 } 
-/* tried to move the paragraphs over to the light in a column to be beside the pictures but it did not work, this is how i imagine it to work */
-p {
-  .column {
-  float: left;
-  width: 33.33%;
-}
