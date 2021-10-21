@@ -37,10 +37,7 @@ li a {
 }
 li a:hover {
   background-color: #111;
-}
-body, p {
-  float:left
-   } 
+} 
 img {
   float: right;
 }
