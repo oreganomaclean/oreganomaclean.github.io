@@ -1,3 +1,4 @@
+/* this is to add my background picture into the website */
 body {
   height: 100%;
   }
@@ -6,12 +7,15 @@ height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
 }
+/* changing the font from anything from times new roman */
 {
   font-family: Arial, Helvetica, sans-serif;
 }
+/* table I did not want on the left hand side */
 table {
   float:right;
   }
+/* for my navbar formatting i like how it turned out */
 ul.a {
   list-style-type: none;
   margin: 0;
@@ -19,11 +23,11 @@ ul.a {
   overflow: hidden;
   background-color: lightseagreen;
 }
-
+/* when i put none into the type it messed up another format so i changed it to square and now it has no bullets im not sure what happened but it is how i want it so */
 ul.b {
   list-style-type: square;
 }
-
+/* this makes my unordered list stay to the left */
 ul {
   float: left;
 }
@@ -41,7 +45,7 @@ li a:hover {
 img {
   float: right;
 }
-
+/* this helps change my link colors when in use and hovering */
 a:link {
   color: lightseagreen;
 }
