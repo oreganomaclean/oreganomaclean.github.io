@@ -1,5 +1,8 @@
 body {
   background-image: url("https://oreganomaclean.github.io/website/background.png");
+background-repeat: no-repeat;
+  background-size: auto;
+}
 }
 ul {
   list-style-type: none;
