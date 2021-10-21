@@ -49,9 +49,9 @@ a:visited {
 }
 
 a:hover {
-  color: black;
+  color: white;
 }
 
 a:active {
-  color: blue;
+  color: yellow;
 } 
