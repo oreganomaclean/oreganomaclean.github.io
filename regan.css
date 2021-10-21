@@ -9,7 +9,9 @@ height: 100%;
 {
   font-family: Arial, Helvetica, sans-serif;
 }
-
+table {
+  float:right;
+  }
 ul.a {
   list-style-type: none;
   margin: 0;
