@@ -15,7 +15,11 @@ ul.a {
   background-color: seashell;
 }
 
-li {
+ul.b {
+  list-style-type: square;
+}
+
+ul {
   float: left;
 }
 
