@@ -61,4 +61,8 @@ a:hover {
 a:active {
   color: yellow;
 } 
-
+p {
+  .column {
+  float: left;
+  width: 33.33%;
+}
